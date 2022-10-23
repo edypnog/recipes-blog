@@ -8,7 +8,8 @@ app_name = 'recipes'
 
 urlpatterns = [
     path('', views.home, name='home'),
-    path('recipes/<int:id>/', views.recipes, name='detail')
+    path('recipes/category/<int:category_id>/', views.category, name='category'),
+    path('recipes/<int:id>/', views.recipes, name='detail'),
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
