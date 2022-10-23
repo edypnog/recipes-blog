@@ -9,9 +9,9 @@
 - SQL
 
 ##### to do:
-- [ ] URL, VIEWS and Templates
-- [ ] Static Files
-- [ ] Models and ORM
+- [x] URL, VIEWS and Templates
+- [x] Static Files
+- [x] Models and ORM
 - [ ] Django Testing (Pytest and UnitTest)
 - [ ] TDD
 - [ ] Pagination
