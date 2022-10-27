@@ -1,5 +1,6 @@
-# RECIPES BOOK ✨
+# RECIPES BOOK ✨ (unfinished)
 ### _made by: edypnog_
+_Curso de Django - Udemy_
 
 ##### tools:
 
