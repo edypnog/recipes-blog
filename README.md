@@ -13,7 +13,7 @@ _Curso de Django - Udemy_
 - [x] URL, VIEWS and Templates
 - [x] Static Files
 - [x] Models and ORM
-- [ ] Django Testing (Pytest and UnitTest)
+- [x] Django Testing (Pytest and UnitTest)
 - [ ] TDD
 - [ ] Pagination
 - [ ] Flash Messages
